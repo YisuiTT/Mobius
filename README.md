@@ -35,13 +35,13 @@
   </tr>
   <tr>
     <td>
-      <p>A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
     </td>
     <td>
-      <p>A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
     </td>
     <td>
-      <p>A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
+      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
     </td>
   </tr>
     
@@ -64,6 +64,23 @@
       <p>case 3</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>
+        Prompt: Small raindrops create rhythmic ripples in a puddle, their concentric circles merging seamlessly. The camera shifts gently from a close-up angle to a wider view, revealing a deserted street. The loop restarts with the first raindrop hitting the surface. 
+      </p>
+    </td>
+    <td>
+        <p>
+            Prompt: White-capped waves roll forward and crash dramatically against jagged rocks, sending spray into the air. The camera pans gently along the shoreline, following the motion of the water. The loop resets as the wave retreats, ready to surge again.
+        </p>
+    </td>
+    <td>
+        <p>
+            Prompt: Stars twinkle in the vast expanse of space as a galaxy rotates slowly in the distance. The camera zooms closer through vibrant, glowing nebulae, emphasizing their brilliant colors. The loop restarts as the zoom reverses, returning to the distant view of the galaxy
+        </p>
+    </td>
+  </tr>
 </table>
 
 #### 🎠 Cartoon
@@ -80,6 +97,17 @@
     <td>
       <img src="./assets/gallery/cartoon/case_9_loop.gif" alt="GIF 3" width="100%">
       <p>case 3</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+    </td>
+    <td>
+      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+    </td>
+    <td>
+      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
     </td>
   </tr>
 </table>
@@ -100,6 +128,17 @@
       <p>case 3</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+    </td>
+    <td>
+      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+    </td>
+    <td>
+      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
+    </td>
+  </tr>
 </table>
 
 #### 🥽 Cyberpunk
@@ -116,6 +155,17 @@
     <td>
       <img src="./assets/gallery/cyberpunk/case_15_loop.gif" alt="GIF 3" width="100%">
       <p>case 3</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+    </td>
+    <td>
+      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+    </td>
+    <td>
+      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
     </td>
   </tr>
 </table>
