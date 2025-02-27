@@ -3,7 +3,7 @@
     Mobius: Text to Seamless Looping Video Generation via Latent Shift
 </h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.1234-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2312.16476) [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://mobius-diffusion.github.io/) 
+[![arXiv](https://img.shields.io/badge/arXiv-1234.1234-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)]() [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://mobius-diffusion.github.io/) 
 
 ![title](./assets/algorithm.jpg)
 
@@ -25,15 +25,15 @@
   <tr>
     <td>
       <img src="./assets/gallery/animal/case_1_loop.gif" alt="GIF 1" width="100%">
-      <p>case 1</p>
+      <p>A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
     </td>
     <td>
       <img src="./assets/gallery/animal/case_2_loop.gif" alt="GIF 2" width="100%">
-      <p>case 2</p>
+      <p>A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
     </td>
     <td>
       <img src="./assets/gallery/animal/case_3_loop.gif" alt="GIF 3" width="100%">
-      <p>case 3</p>
+      <p>A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
     </td>
   </tr>
 </table>
