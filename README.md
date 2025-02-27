@@ -18,9 +18,12 @@
 
 ### 🛠️ Step 2:  -->
 
-### 🎬 Gallery
+<!-- ## 🎥 Video -->
 
-#### 🧸 Animal
+
+## 🎬 Gallery
+
+### 🧸 Animal
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="30%">
@@ -48,7 +51,7 @@
 </table>
 
 
-#### 🧩 Environment
+### 🧩 Environment
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="30%">
@@ -78,7 +81,7 @@
   </tr>
 </table>
 
-#### 🎠 Cartoon
+### 🎠 Cartoon
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="30%">
@@ -104,7 +107,7 @@
   </tr>
 </table>
 
-#### 🎨 Watercolor
+### 🎨 Watercolor
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="30%">
@@ -130,7 +133,7 @@
   </tr>
 </table>
 
-#### 🥽 Cyberpunk
+### 🥽 Cyberpunk
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="30%">
