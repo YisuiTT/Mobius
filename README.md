@@ -23,12 +23,12 @@
 #### 🧸 Animal
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/animal/case_1_loop.gif" alt="GIF 1" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/animal/case_2_loop.gif" alt="GIF 2" width="100%">
-    </td>
+    </td width="30%">
     <td>
       <img src="./assets/gallery/animal/case_3_loop.gif" alt="GIF 3" width="100%">
     </td>
@@ -53,15 +53,12 @@
   <tr>
     <td>
       <img src="./assets/gallery/envirnment/case_4_loop.gif" alt="GIF 1" width="100%">
-      <p>case 1</p>
     </td>
     <td>
       <img src="./assets/gallery/envirnment/case_5_loop.gif" alt="GIF 2" width="100%">
-      <p>case 2</p>
     </td>
     <td>
       <img src="./assets/gallery/envirnment/case_6_loop.gif" alt="GIF 3" width="100%">
-      <p>case 3</p>
     </td>
   </tr>
   <tr>
@@ -86,15 +83,12 @@
   <tr>
     <td>
       <img src="./assets/gallery/cartoon/case_7_loop.gif" alt="GIF 1" width="100%">
-      <p>case 1</p>
     </td>
     <td>
       <img src="./assets/gallery/cartoon/case_8_loop.gif" alt="GIF 2" width="100%">
-      <p>case 2</p>
     </td>
     <td>
       <img src="./assets/gallery/cartoon/case_9_loop.gif" alt="GIF 3" width="100%">
-      <p>case 3</p>
     </td>
   </tr>
   <tr>
@@ -115,15 +109,12 @@
   <tr>
     <td>
       <img src="./assets/gallery/watercolor/case_10_loop.gif" alt="GIF 1" width="100%">
-      <p>case 1</p>
     </td>
     <td>
       <img src="./assets/gallery/watercolor/case_11_loop.gif" alt="GIF 2" width="100%">
-      <p>case 2</p>
     </td>
     <td>
       <img src="./assets/gallery/watercolor/case_12_loop.gif" alt="GIF 3" width="100%">
-      <p>case 3</p>
     </td>
   </tr>
   <tr>
@@ -144,15 +135,12 @@
   <tr>
     <td>
       <img src="./assets/gallery/cyberpunk/case_13_loop.gif" alt="GIF 1" width="100%">
-      <p>case 1</p>
     </td>
     <td>
       <img src="./assets/gallery/cyberpunk/case_14_loop.gif" alt="GIF 2" width="100%">
-      <p>case 2</p>
     </td>
     <td>
       <img src="./assets/gallery/cyberpunk/case_15_loop.gif" alt="GIF 3" width="100%">
-      <p>case 3</p>
     </td>
   </tr>
   <tr>
