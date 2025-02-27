@@ -35,13 +35,13 @@
   </tr>
   <tr>
     <td>
-      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest...</p>
     </td>
     <td>
-      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun...</p>
     </td>
     <td>
-      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
+      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light...</p>
     </td>
   </tr>
     
@@ -67,18 +67,16 @@
   <tr>
     <td>
       <p>
-        Prompt: Small raindrops create rhythmic ripples in a puddle, their concentric circles merging seamlessly. The camera shifts gently from a close-up angle to a wider view, revealing a deserted street. The loop restarts with the first raindrop hitting the surface. 
-      </p>
+        Prompt: Small raindrops create rhythmic ripples in a puddle, their concentric circles merging seamlessly...
     </td>
     <td>
         <p>
-            Prompt: White-capped waves roll forward and crash dramatically against jagged rocks, sending spray into the air. The camera pans gently along the shoreline, following the motion of the water. The loop resets as the wave retreats, ready to surge again.
+            Prompt: White-capped waves roll forward and crash dramatically against jagged rocks, sending spray into the air...
         </p>
     </td>
     <td>
         <p>
-            Prompt: Stars twinkle in the vast expanse of space as a galaxy rotates slowly in the distance. The camera zooms closer through vibrant, glowing nebulae, emphasizing their brilliant colors. The loop restarts as the zoom reverses, returning to the distant view of the galaxy
-        </p>
+            Prompt: Stars twinkle in the vast expanse of space as a galaxy rotates slowly in the distance...
     </td>
   </tr>
 </table>
@@ -101,13 +99,13 @@
   </tr>
   <tr>
     <td>
-      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+      <p>Prompt: A mischievous raccoon sneaks through a pile of cartoonish leaves in a city park...</p>
     </td>
     <td>
-      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+      <p>Prompt: A group of adorable animals, including a talking squirrel, a rabbit in glasses, and a wise owl, gather around a campfire in the forest...</p>
     </td>
     <td>
-      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
+      <p>Prompt: A young wizard in a colorful purple robe waves a wand, creating sparkling cartoonish magic...</p>
     </td>
   </tr>
 </table>
@@ -130,13 +128,13 @@
   </tr>
   <tr>
     <td>
-      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+      <p>Prompt: A fox moves through the forest, its body sleek and agile as it glides over the ground...</p>
     </td>
     <td>
-      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+      <p>Prompt: A horse gallops through a golden wheat field, its mane and tail flowing in the wind...</p>
     </td>
     <td>
-      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
+      <p>Prompt: A child dances joyfully in an open field, her arms outstretched as she spins in circles...</p>
     </td>
   </tr>
 </table>
@@ -159,13 +157,13 @@
   </tr>
   <tr>
     <td>
-      <p>Prompt: A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+      <p>Prompt: A cyberpunk courier in a sleek, urban jumpsuit speeds through a glowing metropolis on a hoverbike, the neon underlights casting a pulsating pink glow onto the rain-slicked road...</p>
     </td>
     <td>
-      <p>Prompt: A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+      <p>Prompt: A woman with bright neon hair dances in the middle of a crowded street, her body moving to the rhythm of the city...</p>
     </td>
     <td>
-      <p>Prompt: A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
+      <p>Prompt: A cyberpunk smuggler leans over a glowing console inside their hovercraft, the heads-up display scanning cargo containers filled with illicit cyberware...</p>
     </td>
   </tr>
 </table>
