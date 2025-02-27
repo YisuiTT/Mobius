@@ -25,17 +25,26 @@
   <tr>
     <td>
       <img src="./assets/gallery/animal/case_1_loop.gif" alt="GIF 1" width="100%">
-      <p>A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
     </td>
     <td>
       <img src="./assets/gallery/animal/case_2_loop.gif" alt="GIF 2" width="100%">
-      <p>A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
     </td>
     <td>
       <img src="./assets/gallery/animal/case_3_loop.gif" alt="GIF 3" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>A lone wolf stands atop a snowy hill, howling beneath a starry sky in a frozen forest. The sound echoes through the trees, its call clear and haunting as the wolf's breath turns to mist in the cold air.</p>
+    </td>
+    <td>
+      <p>A majestic dragon soars through the sky, its massive wings outstretched against the fiery colors of a setting sun. The dragon’s scales gleam with each powerful stroke of its wings, while the sky...</p>
+    </td>
+    <td>
       <p>A cat stretches lazily in the warm sunlight streaming through an open window, its fur glowing in the golden light. The soft rays gently warm its body as it shifts position, settling back down with a contented purr.</p>
     </td>
   </tr>
+    
 </table>
 
 
