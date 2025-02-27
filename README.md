@@ -21,7 +21,7 @@
 ### 🎬 Gallery
 
 #### 🧸 Animal
-<table style="width: 100%; text-align: center;">
+<table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td>
       <img src="./assets/gallery/animal/case_1_loop.gif" alt="GIF 1" width="100%">
