@@ -9,7 +9,7 @@
 
 ## 🔮 Latest Update
 
-- [27/2/2025] 🔥 We released the **[Mobius Paper](https://arxiv.org/abs/2312.16476)**. Mobius is a novel method to generate seamlessly looping videos from text descriptions directly without any user annotations.
+- [27/2/2025] 🔥 We released the **[Mobius Paper]()**. Mobius is a novel method to generate seamlessly looping videos from text descriptions directly without any user annotations.
 
 <!-- ## 📌 Installation Guide
 
