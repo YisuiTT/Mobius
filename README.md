@@ -1,5 +1,5 @@
 <h1>
-    <img src="./assets/logo.png" alt="Icon" width="40" height="40" style="margin-right: 2px;">
+    <img src="./assets/logo.png" alt="Icon" width="40" height="40" style="margin-right: -2px;">
     <span style="padding-left: 0;">Mobius: Text to Seamless Looping Video Generation via Latent Shift</span>
 </h1>
 
