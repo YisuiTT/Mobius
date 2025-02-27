@@ -25,12 +25,15 @@
   <tr>
     <td>
       <img src="./assets/gallery/animal/case_1_loop.gif" alt="GIF 1" width="100%">
+      <p>case 1</p>
     </td>
     <td>
       <img src="./assets/gallery/animal/case_2_loop.gif" alt="GIF 2" width="100%">
+      <p>case 2</p>
     </td>
     <td>
       <img src="./assets/gallery/animal/case_3_loop.gif" alt="GIF 3" width="100%">
+      <p>case 3</p>
     </td>
   </tr>
 </table>
