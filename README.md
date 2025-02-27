@@ -51,13 +51,13 @@
 #### 🧩 Environment
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/envirnment/case_4_loop.gif" alt="GIF 1" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/envirnment/case_5_loop.gif" alt="GIF 2" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/envirnment/case_6_loop.gif" alt="GIF 3" width="100%">
     </td>
   </tr>
@@ -81,13 +81,13 @@
 #### 🎠 Cartoon
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/cartoon/case_7_loop.gif" alt="GIF 1" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/cartoon/case_8_loop.gif" alt="GIF 2" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/cartoon/case_9_loop.gif" alt="GIF 3" width="100%">
     </td>
   </tr>
@@ -107,24 +107,24 @@
 #### 🎨 Watercolor
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/watercolor/case_10_loop.gif" alt="GIF 1" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/watercolor/case_11_loop.gif" alt="GIF 2" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/watercolor/case_12_loop.gif" alt="GIF 3" width="100%">
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="30%">
       <p>Prompt: A fox moves through the forest, its body sleek and agile as it glides over the ground...</p>
     </td>
-    <td>
+    <td width="30%">
       <p>Prompt: A horse gallops through a golden wheat field, its mane and tail flowing in the wind...</p>
     </td>
-    <td>
+    <td width="30%">
       <p>Prompt: A child dances joyfully in an open field, her arms outstretched as she spins in circles...</p>
     </td>
   </tr>
@@ -133,13 +133,13 @@
 #### 🥽 Cyberpunk
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/cyberpunk/case_13_loop.gif" alt="GIF 1" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/cyberpunk/case_14_loop.gif" alt="GIF 2" width="100%">
     </td>
-    <td>
+    <td width="30%">
       <img src="./assets/gallery/cyberpunk/case_15_loop.gif" alt="GIF 3" width="100%">
     </td>
   </tr>
