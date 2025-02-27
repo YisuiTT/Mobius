@@ -26,7 +26,7 @@
         <div class="row">
             <div class="video-container">
                 <video loop autoplay muted class="video">
-                    <source src="images/results/animal/case_6.mp4" type="video/mp4">
+                    <source src="./assets/gallery/animal/case_6.mp4" type="video/mp4">
                 </video>
                 <span class="frame-number">0</span>
             </div>
@@ -37,7 +37,7 @@
         <div class="row">
             <div class="video-container">
                 <video loop autoplay muted class="video">
-                    <source src="images/results/animal/case_15.mp4" type="video/mp4">
+                    <source src="./assets/gallery/animal/case_15.mp4" type="video/mp4">
                 </video>
                 <span class="frame-number">0</span>
             </div>
@@ -48,7 +48,7 @@
         <div class="row">
             <div class="video-container">
                 <video loop autoplay muted class="video">
-                    <source src="images/results/animal/case_16.mp4" type="video/mp4">
+                    <source src="./assets/gallery/animal/case_16.mp4" type="video/mp4">
                 </video>
                 <span class="frame-number">0</span>
             </div>
