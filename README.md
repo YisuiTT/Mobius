@@ -21,23 +21,20 @@
 ### 🎬 Gallery
 
 #### 🧸 Animal
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="flex: 1 1 30%; max-width: 30%;">
-        <video loop autoplay controls width="100%">
-            <source src="./assets/gallery/animal/case_6.mp4" type="video/mp4">
-        </video>
-    </div>
-    <div style="flex: 1 1 30%; max-width: 30%;">
-        <video loop autoplay controls width="100%">
-            <source src="./assets/gallery/animal/case_15.mp4" type="video/mp4">
-        </video>
-    </div>
-    <div style="flex: 1 1 30%; max-width: 30%;">
-        <video loop autoplay controls width="100%">
-            <source src="./assets/gallery/animal/case_16.mp4" type="video/mp4">
-        </video>
-    </div>
-</div>
+<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
+  <tr>
+      <td>
+          <video src="./assets/gallery/animal/case_6.mp4" width="100%" controls autoplay loop></video>
+      </td>
+      <td>
+          <video src="./assets/gallery/animal/case_15.mp4" width="100%" controls autoplay loop></video>
+      </td>
+       <td>
+          <video src="./assets/gallery/animal/case_16.mp4" width="100%" controls autoplay loop></video>
+     </td>
+
+  </tr>
+</table>
 
 
 #### 🧩 Environment
