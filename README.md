@@ -21,18 +21,18 @@
 ### 🎬 Gallery
 
 #### 🧸 Animal
-<table style="width: 100%; text-align: left; margin-top: 20px;">
-    <tr>
-        <td>
-          <video src="https://github.com/user-attachments/assets/ec0fb85b-3636-42c3-97d9-8ce530036e78.mp4" width="100%" loop autoplay muted></video>
-        </td>
-        <td>
-          <video src="https://github.com/user-attachments/assets/25bf13e2-5ef5-4829-8496-a91e00bc9b68.mp4" width="100%" loop autoplay muted></video>
-        </td>
-        <td>
-          <video src="https://github.com/user-attachments/assets/d3fd37ac-5c20-4a03-8cf1-c51bce762cbb.mp4" width="100%" loop autoplay muted></video>
-        </td>
-    </tr>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td>
+      <img src="./assets/gallery/animal/case_1.gif" alt="GIF 1" width="100%">
+    </td>
+    <td>
+      <img src="./assets/gallery/animal/case_1.gif" alt="GIF 2" width="100%">
+    </td>
+    <td>
+      <img src="./assets/gallery/animal/case_1.gif" alt="GIF 3" width="100%">
+    </td>
+  </tr>
 </table>
 
 
