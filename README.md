@@ -21,19 +21,18 @@
 ### 🎬 Gallery
 
 #### 🧸 Animal
-<table border="0" style="width: 100%; text-align: left; margin-top: 20px;">
-  <tr>
-      <td>
+<table style="width: 100%; text-align: left; margin-top: 20px;">
+    <tr>
+        <td>
           <video src="./assets/gallery/animal/case_6.mp4" width="100%" controls autoplay loop></video>
-      </td>
-      <td>
+        </td>
+        <td>
           <video src="./assets/gallery/animal/case_15.mp4" width="100%" controls autoplay loop></video>
-      </td>
-       <td>
+        </td>
+        <td>
           <video src="./assets/gallery/animal/case_16.mp4" width="100%" controls autoplay loop></video>
-     </td>
-
-  </tr>
+        </td>
+    </tr>
 </table>
 
 
