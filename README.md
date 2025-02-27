@@ -3,7 +3,7 @@
     Mobius: Text to Seamless Looping Video Generation via Latent Shift
 </h1>
 
-<b><a href='https://bixiuli.github.io/'> Xiuli Bi</a> · Jianfei Yuan · <a href='https://scholar.google.com/citations?user=fXlz210AAAAJ&hl=zh-CN'>Bo Liu</a> · <a href='https://yzhang2016.github.io/'>Yong Zhang</a> · <a href='https://vinthony.github.io'>Xiaodong Cun</a> · <a href='https://cmpun.github.io/'>Chi-Man Pun</a> · <a href='https://scholar.google.com/citations?hl=zh-TW&user=e3Dw1bkAAAAJ'>Bin Xiao</a></b>
+<b><a href='https://bixiuli.github.io/'> Xiuli Bi</a> · Jianfei Yuan · <a href='https://scholar.google.com/citations?user=fXlz210AAAAJ&hl=zh-CN'>Bo Liu</a> · <a href='https://yzhang2016.github.io/'>Yong Zhang</a> · <a href='https://vinthony.github.io'>Xiaodong Cun 📪</a> · <a href='https://cmpun.github.io/'>Chi-Man Pun</a> · <a href='https://scholar.google.com/citations?hl=zh-TW&user=e3Dw1bkAAAAJ'>Bin Xiao</a></b>
 
 
 
