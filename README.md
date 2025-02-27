@@ -24,13 +24,13 @@
 <table style="width: 100%; text-align: center;">
   <tr>
     <td>
-      <img src="./assets/gallery/animal/case_1.gif" alt="GIF 1" width="100%">
+      <img src="./assets/gallery/animal/case_1_loop.gif" alt="GIF 1" width="100%">
     </td>
     <td>
-      <img src="./assets/gallery/animal/case_1.gif" alt="GIF 2" width="100%">
+      <img src="./assets/gallery/animal/case_2_loop.gif" alt="GIF 2" width="100%">
     </td>
     <td>
-      <img src="./assets/gallery/animal/case_1.gif" alt="GIF 3" width="100%">
+      <img src="./assets/gallery/animal/case_3_loop.gif" alt="GIF 3" width="100%">
     </td>
   </tr>
 </table>
