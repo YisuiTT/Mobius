@@ -96,7 +96,7 @@
       <p>Prompt: A mischievous raccoon sneaks through a pile of cartoonish leaves in a city park...</p>
     </td>
     <td>
-      <p>Prompt: A group of adorable animals, including a talking squirrel, a rabbit in glasses, and a wise owl, gather around a campfire in the forest...</p>
+      <p>Prompt: A group of adorable animals, including a talking squirrel, a rabbit in glasses, and a wise owl,...</p>
     </td>
     <td>
       <p>Prompt: A young wizard in a colorful purple robe waves a wand, creating sparkling cartoonish magic...</p>
@@ -145,13 +145,13 @@
   </tr>
   <tr>
     <td>
-      <p>Prompt: A cyberpunk courier in a sleek, urban jumpsuit speeds through a glowing metropolis on a hoverbike, the neon underlights casting a pulsating pink glow onto the rain-slicked road...</p>
+      <p>Prompt: A cyberpunk courier in a sleek, urban jumpsuit speeds through a glowing metropolis on a hoverbike,...</p>
     </td>
     <td>
       <p>Prompt: A woman with bright neon hair dances in the middle of a crowded street, her body moving to the rhythm of the city...</p>
     </td>
     <td>
-      <p>Prompt: A cyberpunk smuggler leans over a glowing console inside their hovercraft, the heads-up display scanning cargo containers filled with illicit cyberware...</p>
+      <p>Prompt: A cyberpunk smuggler leans over a glowing console inside their hovercraft, the heads-up display scanning cargo containers...</p>
     </td>
   </tr>
 </table>
