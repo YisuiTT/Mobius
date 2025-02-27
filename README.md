@@ -28,8 +28,8 @@
     </td>
     <td width="30%">
       <img src="./assets/gallery/animal/case_2_loop.gif" alt="GIF 2" width="100%">
-    </td width="30%">
-    <td>
+    </td >
+    <td width="30%">
       <img src="./assets/gallery/animal/case_3_loop.gif" alt="GIF 3" width="100%">
     </td>
   </tr>
