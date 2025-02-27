@@ -1,5 +1,8 @@
-<!-- # Mobius: Text to Seamless Looping Video Generation via Latent Shift -->
-<h1><img src="./assets/logo.png" alt="Icon" width="40" height="40"> Mobius: Text to Seamless Looping Video Generation via Latent Shift</h1>
+<h1>
+    <img src="./assets/logo.png" alt="Icon" width="40" height="40" style="margin-right: 2px;">
+    <span style="padding-left: 0;">Mobius: Text to Seamless Looping Video Generation via Latent Shift</span>
+</h1>
+
 [![arXiv](https://img.shields.io/badge/arXiv-2312.16476-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2312.16476) [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://ximinng.github.io/SVGDreamer-project/) 
 
 ![title](./assets/algorithm.png)
