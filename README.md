@@ -7,13 +7,13 @@
 
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.1234-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)]() [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://mobius-diffusion.github.io/) 
+[![arXiv](https://img.shields.io/badge/arXiv-2502.20307-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.20307) [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://mobius-diffusion.github.io/) 
 
 ![title](./assets/algorithm.jpg)
 
 ## 🔮 Latest Update
 
-- [27/2/2025] 🔥 We released the **[Mobius Paper]()**. Mobius is a novel method to generate seamlessly looping videos from text descriptions directly without any user annotations.
+- [27/2/2025] 🔥 We released the **[Mobius Paper](https://arxiv.org/abs/2502.20307)**. Mobius is a novel method to generate seamlessly looping videos from text descriptions directly without any user annotations.
 
 <!-- ## 📌 Installation Guide
 
