@@ -126,10 +126,10 @@
   </tr>
   <tr>
     <td width="30%">
-      <p>Prompt: A fox moves through the forest, its body sleek and agile as it glides over the ground...</p>
+      <p>Prompt: A horse gallops through a golden wheat field, its mane and tail flowing in the wind...</p>
     </td>
     <td width="30%">
-      <p>Prompt: A horse gallops through a golden wheat field, its mane and tail flowing in the wind...</p>
+      <p>Prompt: A fox moves through the forest, its body sleek and agile as it glides over the ground...</p>
     </td>
     <td width="30%">
       <p>Prompt: A child dances joyfully in an open field, her arms outstretched as she spins in circles...</p>
