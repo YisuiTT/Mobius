@@ -220,7 +220,7 @@ python mobius_vc2_demo.py --prompt_file "prompts/samples.txt" --ckpt_path /path/
 
 
 ## 🎬VideoCrafter2 Gallery
-### 🧑‍🚀 Human
+### 🏃‍ Human
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="30%">
