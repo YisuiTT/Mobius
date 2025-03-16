@@ -79,10 +79,6 @@ python mobius_vc2_demo.py --prompt_file "prompts/samples.txt" --ckpt_path /path/
 - `savedir`(str): The path where the generated video will be saved.
 - `shift_skip`(int): Set the skip step of latent shift.
 
-## 📋 TODO
-
-- [x] Release the paper.
-- [x] Release the code based on CogVideoX.
 
 ## 🎬CogVideoX Gallery
 
@@ -224,7 +220,7 @@ python mobius_vc2_demo.py --prompt_file "prompts/samples.txt" --ckpt_path /path/
 
 
 ## 🎬VideoCrafter2 Gallery
-### 🏃‍ Human
+### 🧑‍🚀 Human
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="30%">
@@ -302,6 +298,13 @@ python mobius_vc2_demo.py --prompt_file "prompts/samples.txt" --ckpt_path /path/
     </td>
   </tr>
 </table>
+
+## 📋 TODO
+
+- [x] Release the paper.
+- [x] Release the code based on CogVideoX-5b.
+- [x] Release the code based on VideoCrafter2
+- [ ] Longer looping and RoPE-interp code.
 
 ## :paperclip: Citation
 
