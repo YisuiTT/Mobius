@@ -9,6 +9,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2502.20307-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.20307) [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://mobius-diffusion.github.io/) 
 
+<!--
 
 <div style="display: flex;">
     <div style="width: 50%;">
@@ -18,7 +19,7 @@
         <img src="./assets/teaser-2-loop.gif" alt="GIF 2" style="width:100%; margin:0;">
     </div>
 </div>
-
+-->
 ![title](./assets/algorithm.jpg)
 
 
