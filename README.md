@@ -9,7 +9,14 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2502.20307-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.20307) [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://mobius-diffusion.github.io/) 
 
+<div >
+    <img src="assets/teaser.gif" style="width: 48%;"/>
+    <img src="assets/teaser.gif" style="width: 48%;"/>
+</div>
+
 ![title](./assets/algorithm.jpg)
+
+
 
 ## 🔮 Latest Update
 
@@ -51,6 +58,17 @@ python mobius_cli_demo.py --prompts_path "./prompts/samples.txt" --model_path /p
 - `output_path`(str): The path where the generated video will be saved.
 - `shift_skip`(int): Set the skip step of latent shift.
 - `frame_invariance_decoding`(bool): Enable or disable frame-invariance decoding.
+
+#### 👑 2.4 Run Gradio Demo
+
+```
+python gradio_web_demo.py
+```
+💍Tips:
+Set the following environment variables in your system:
+
++ MODEL_PATH = your_models_path
+
 
 ### 🌑 3. Start with <a href="https://github.com/AILab-CVC/VideoCrafter">VideoCrafter2</a>
 
@@ -220,7 +238,7 @@ python mobius_vc2_demo.py --prompt_file "prompts/samples.txt" --ckpt_path /path/
 
 
 ## 🎬VideoCrafter2 Gallery
-### 🏃‍ Human
+### 🧑‍🚀 Human
 <table border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="30%">
