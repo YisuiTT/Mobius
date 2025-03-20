@@ -11,8 +11,8 @@
 
 
 <div style="width:100%;">
-  <img src="./assets/teaser-1-loop.gif" alt="teaser-1" style="width:50%; float:left;">
-  <img src="./assets/teaser-2-loop.gif" alt="teaser-2" style="width:50%; float:left;">
+  <img src="./assets/teaser-1-loop.gif" alt="teaser-1" style="width:40%; float:left;">
+  <img src="./assets/teaser-2-loop.gif" alt="teaser-2" style="width:40%; float:left;">
 </div>
 
 ![title](./assets/algorithm.jpg)
