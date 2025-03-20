@@ -13,10 +13,10 @@
 <div border="0" style="width: 100%; text-align: center;">
   <tr>
     <td width="48%">
-      <img src="./assets/teaser-1-loop.gif" alt="GIF 1" width="50%">
+      <img src="./assets/teaser-1-loop.gif" alt="GIF 1" width="48%">
     </td>
     <td width="48%">
-      <img src="./assets/teaser-2-loop.gif" alt="GIF 2" width="50%">
+      <img src="./assets/teaser-2-loop.gif" alt="GIF 2" width="48%">
     </td>
   </tr>
 </div>
