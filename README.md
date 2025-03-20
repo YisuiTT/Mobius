@@ -9,7 +9,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2502.20307-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.20307) [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://mobius-diffusion.github.io/) 
 
-
+<!--
 <tr>
     <td width="40%">
       <img src="./assets/teaser-1-loop.gif" alt="GIF 1" width="100%">
@@ -18,6 +18,7 @@
       <img src="./assets/teaser-2-loop.gif" alt="GIF 2" width="100%">
     </td>
 </tr>
+-->
 
 ![title](./assets/algorithm.jpg)
 
