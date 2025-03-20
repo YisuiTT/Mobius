@@ -9,9 +9,11 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2502.20307-8A2BE2?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.20307) [![Project Website](https://img.shields.io/badge/Website-Project%20Page-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://mobius-diffusion.github.io/) 
 
+
+
 <div >
-    <img src="assets/teaser.gif" style="width: 48%;"/>
-    <img src="assets/teaser.gif" style="width: 48%;"/>
+    <img src="./assets/teaser-1-loop.gif" style="width: 48%;"/>
+    <img src="./assets/teaser-2-loop.gif" style="width: 48%;"/>
 </div>
 
 ![title](./assets/algorithm.jpg)
@@ -65,6 +67,7 @@ python mobius_cli_demo.py --prompts_path "./prompts/samples.txt" --model_path /p
 python gradio_web_demo.py
 ```
 💍Tips:
+
 Set the following environment variables in your system:
 
 + MODEL_PATH = your_models_path
